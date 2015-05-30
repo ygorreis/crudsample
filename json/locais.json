@@ -1,0 +1,35 @@
+[
+   {
+      "id":"1",
+      "nome": "São Geraldo",
+      "telefone1": "(88) 3414-3460",
+      "telefone2": " (88) 3412-0322",
+      "endereco": "Rua Tabelião Enéas, 645 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Próximo a Igreja da Matriz",
+      "foto": "http://www.belasarteshotel.com/images/grupo_sao_geraldo.jpg",
+      "horarioFuncionamento":"Seg. a Domingo de 6:00hs às 22:00hs",
+      "horarioEntrega":"Seg. a Sábado de 8:00hs às 20:00hs"
+   },
+   {
+      "id":"2",
+      "nome": "Pinheiro Supermercado",
+      "telefone1": "(88) 3412-1910",
+      "telefone2": "(88) 3412-1636",
+      "endereco": "Rua José de Queiroz Pessoa, 1296",
+      "pontoDeReferencia": "Vizinho à FECLESC",
+      "foto": "http://diariodonordeste.verdesmares.com.br/polopoly_fs/1.810125!/image/image.jpg",
+      "horarioFuncionamento":"Seg. a Domingo de 6:00hs às 22:00hs",
+      "horarioEntrega":"Seg. a Sábado de 8:00hs às 20:00hs"
+   },
+   {
+      "id":"3",
+      "nome": "Cícero Bertoldo",
+      "telefone1": " (88) 3412-0988",
+      "telefone2": " (88) 3412-0988",
+      "endereco": "Rua Tabelião Enéas, 473",
+      "pontoDeReferencia": "Próximo a Rádio Liderança",
+      "foto": "http://widget.maplink.com.br/WidGetGenerator/?v=4.1&lat=-4.970723&lng=-39.016777&w=230&h=165&m=400&image=http://static.portal.maplink.com.br/images/markers/marker_apontador_map.png&count=0",
+      "horarioFuncionamento":"Seg. a Domingo de 6:00hs às 22:00hs",
+      "horarioEntrega":"Seg. a Sábado de 8:00hs às 20:00hs"
+   }
+]

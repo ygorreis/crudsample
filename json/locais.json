@@ -8,7 +8,7 @@
       "pontoDeReferencia": "Pr√≥ximo a Igreja da Matriz",
       "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/sao_geraldo_quixada.jpg",
       "horarioFuncionamento":"Seg. a Domingo de 6:00hs √†s 22:00hs",
-      "horarioEntrega":"Seg. a S√°bado de 8:00hs √†s 20:00hs"
+      "horarioEntrega":"Seg. a S√É¬°bado de 8:00hs √†s 20:00hs"
    },
    {
       "id":"2",
@@ -34,24 +34,24 @@
    },
    {
       "id":"4",
-      "nome": "Rede AÁaÌ",
+      "nome": "Rede A√ßa√≠",
       "telefone1": "(88) 0000-0000",
       "telefone2": "(88) 0000-0000",
-      "endereco": "Rua Rodrigues J˙nior, 947 - Baviera, Quixad· - CE",
-      "pontoDeReferencia": "PrÛximo a R·dio LideranÁa",
+      "endereco": "Rua Rodrigues J√∫nior, 947 - Baviera, Quixad√° - CE",
+      "pontoDeReferencia": "Pr√≥ximo a R√°dio Lideran√ßa",
       "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/rede_acai_quixada.jpg",
-      "horarioFuncionamento":"Seg. a Domingo de 14:00hs ‡s 22:00hs",
-      "horarioEntrega":"Estabelecimento n„o faz entrega."
+      "horarioFuncionamento":"Seg. a Domingo de 14:00hs √†s 22:00hs",
+      "horarioEntrega":"Estabelecimento n√£o faz entrega."
    },
    {
       "id":"5",
-      "nome": "BookafÈ",
+      "nome": "Bookaf√©",
       "telefone1": "(88) 0000-0000",
       "telefone2": "(88) 0000-0000",
-      "endereco": "Rua JosÈ Queiroz Pessoa, S/N - Centro, Quixad· - CE",
-      "pontoDeReferencia": "PrÛximo ao Hospital Eud·sio Barroso",
+      "endereco": "Rua Jos√© Queiroz Pessoa, S/N - Centro, Quixad√° - CE",
+      "pontoDeReferencia": "Pr√≥ximo ao Hospital Eud√°sio Barroso",
       "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/bookafe_quixada.jpg",
       "horarioFuncionamento":"Seg. a Domingo de 14:00hs √†s 22:00hs",
-      "horarioEntrega":"Estabelecimento n„o faz entrega."
+      "horarioEntrega":"Estabelecimento n√£o faz entrega."
    }
 ]

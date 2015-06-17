@@ -8,7 +8,8 @@
       "pontoDeReferencia": "Próximo a Igreja da Matriz",
       "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/sao_geraldo_quixada.jpg?raw=true",
       "horarioFuncionamento":"Seg. a Domingo de 6:00hs às 22:00hs",
-      "horarioEntrega":"Seg. a SÃ¡bado de 8:00hs às 20:00hs"
+      "horarioEntrega":"Seg. a Sábado de 8:00hs às 20:00hs",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex","Alimentação"]
    },
    {
       "id":"2",
@@ -19,7 +20,8 @@
       "pontoDeReferencia": "Vizinho à FECLESC",
       "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/pinheiro_quixada.jpg?raw=true",
       "horarioFuncionamento":"Seg. a Domingo de 6:00hs às 22:00hs",
-      "horarioEntrega":"Seg. a Sábado de 8:00hs às 20:00hs"
+      "horarioEntrega":"Seg. a Sábado de 8:00hs às 20:00hs",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex","Alimentação"]
    },
    {
       "id":"3",
@@ -30,18 +32,20 @@
       "pontoDeReferencia": "Próximo a Rádio Liderança",
       "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/cicero_bertoldo_quixada.jpg?raw=true",
       "horarioFuncionamento":"Seg. a Domingo de 6:00hs às 22:00hs",
-      "horarioEntrega":"Seg. a Sábado de 8:00hs às 20:00hs"
+      "horarioEntrega":"Seg. a Sábado de 8:00hs às 20:00hs",
+      "cartoes":["Visa","MasterCard"]
    },
    {
       "id":"4",
       "nome": "Rede Açaí",
-      "telefone1": "(88) 0000-0000",
-      "telefone2": "(88) 0000-0000",
+      "telefone1": "(88) 3412-1443",
+      "telefone2": "(88) 3412-1443",
       "endereco": "Rua Rodrigues Júnior, 947 - Baviera, Quixadá - CE",
       "pontoDeReferencia": "Próximo a Rádio Liderança",
       "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/rede_acai_quixada.jpg?raw=true",
       "horarioFuncionamento":"Seg. a Domingo de 14:00hs às 22:00hs",
-      "horarioEntrega":"Estabelecimento não faz entrega."
+      "horarioEntrega":"Estabelecimento não faz entrega.",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex","Alimentação"]
    },
    {
       "id":"5",
@@ -52,6 +56,115 @@
       "pontoDeReferencia": "Próximo ao Hospital Eudásio Barroso",
       "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/bookafe_quixada.jpg?raw=true",
       "horarioFuncionamento":"Seg. a Domingo de 14:00hs às 22:00hs",
-      "horarioEntrega":"Estabelecimento não faz entrega."
+      "horarioEntrega":"Estabelecimento não faz entrega.",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex","Alimentação"]
+   },
+   {
+      "id":"6",
+      "nome": "Q - Pão",
+      "telefone1": "(88) 3412-5597",
+      "telefone2": "(88) 3412-5597",
+      "endereco": "Av. Plácido Castelo, 1679 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Próximo à Lojas Americanas",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/qpao_quixada.jpg?raw=true",
+      "horarioFuncionamento":"Seg. a Domingo de 5:00hs às 19:00hs",
+      "horarioEntrega":"Seg. a Domingo de 5:00hs às 19:00hs",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex","Alimentação"]
+   },
+   {
+      "id":"7",
+      "nome": "Q - Doce",
+      "telefone1": "(88) 3412-1153",
+      "telefone2": "(88) 3412-1153",
+      "endereco": "Rua Epitácio Pessoa, 1942 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Próximo a Igreja da Matriz",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/qdoce_quixada.jpg?raw=true",
+      "horarioFuncionamento":"Seg. a Domingo de 5:00hs às 19:00hs",
+      "horarioEntrega":"Seg. a Domingo de 5:00hs às 19:00hs",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex","Alimentação"]
+   },
+   {
+      "id":"8",
+      "nome": "Padaria Nossa Senhora do Perpétuo Socorro",
+      "telefone1": "(88) 3412-0690",
+      "telefone2": "(88) 3412-0690",
+      "endereco": "Rua Benjamin Constant, 1033 - Alto São Francisco, Quixadá - CE",
+      "pontoDeReferencia": "Vizinho a Igreja do Alto",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/pnsps_quixada.jpg?raw=true",
+      "horarioFuncionamento":"Seg. a Domingo de 5:00hs às 19:00hs",
+      "horarioEntrega":"Seg. a Domingo de 5:00hs às 19:00hs",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex","Alimentação"]
+   },
+   {
+      "id":"9",
+      "nome": "Farmácia Pague Menos",
+      "telefone1": "(88) 3445-1030",
+      "telefone2": "(88) 3445-1030",
+      "endereco": "Av. Plácido Castelo, 1785 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Vizinho a Praça do Leão",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/ague_menos_quixada.png?raw=true",
+      "horarioFuncionamento":"Seg. a Domingo de 5:00hs às 19:00hs",
+      "horarioEntrega":"Seg. a Domingo de 5:00hs às 19:00hs",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex"]
+   },
+   {
+      "id":"10",
+      "nome": "Cacau Show",
+      "telefone1": "(88) 3412-0382",
+      "telefone2": "(88) 3412-0382",
+      "endereco": "Av. Rodrigues Júnior, 1285 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Vizinho a Praça do Leão",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/cacau_show_quixada.png?raw=true",
+      "horarioFuncionamento":"Seg. a Domingo de 5:00hs às 19:00hs",
+      "horarioEntrega":"Estabelecimento não faz entrega.",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex"]
+   },
+   {
+      "id":"11",
+      "nome": "Art Cores Digital",
+      "telefone1": "(88) 3412-5209",
+      "telefone2": "(88) 3412-5209",
+      "endereco": "Av. Rodrigues Júnior, 1320 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Vizinho a Praça do Leão",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/photo_not_available.png?raw=true",
+      "horarioFuncionamento":"Seg. a Domingo de 5:00hs às 19:00hs",
+      "horarioEntrega":"Estabelecimento não faz entrega.",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex"]
+   },
+   {
+      "id":"12",
+      "nome": "Restaurante Saborear",
+      "telefone1": "(88) 3412-3080",
+      "telefone2": "(88) 3412-3080",
+      "endereco": "Av. Rodrigues Júnior, 1342 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Vizinho a Praça do Leão",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/saborear_quixada.jpg?raw=true",
+      "horarioFuncionamento":"Seg. a Sábado de 10:30hs às 15:00hs",
+      "horarioEntrega":"Estabelecimento não faz entrega.",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex"]
+   },
+   {
+      "id":"13",
+      "nome": "Farmácia Feitosa",
+      "telefone1": "(88) 3412-3965",
+      "telefone2": "(88) 3412-3965",
+      "endereco": "Av. Rodrigues Júnior, 1372 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Vizinho a Praça do Leão",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/photo_not_available.png?raw=true",
+      "horarioFuncionamento":"Seg. a Sábado de 8:00hs às 22:00hs",
+      "horarioEntrega":"Estabelecimento não faz entrega.",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex"]
+   },
+   {
+      "id":"14",
+      "nome": "Rick Burguer",
+      "telefone1": "(88) 3412-3965",
+      "telefone2": "(88) 3412-3965",
+      "endereco": "Av. Rodrigues Júnior, 1372 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Vizinho a Praça do Leão",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/photo_not_available.png?raw=true",
+      "horarioFuncionamento":"Seg. a Sábado de 8:00hs às 22:00hs",
+      "horarioEntrega":"Estabelecimento não faz entrega.",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex"]
    }
 ]

@@ -538,5 +538,77 @@
       "horarioFuncionamento":"Terça. a Domingo de 18:00hs às 0:00hs",
       "horarioEntrega":"Estabelecimento não faz entrega",
       "cartoes":["Estabelecimento não aceita cartões de crédito/débito"]
+   },
+   {
+      "id":"46",
+      "nome": "Ronda do Quarteirão - 1",
+      "telefone1": "(88) 98508-4900",
+      "telefone2": "(88) 3412-1243",
+      "endereco": "Quixadá - CE",
+      "pontoDeReferencia": " - ",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/ronda_quarteirao.jpg?raw=true",
+      "horarioFuncionamento":" - ",
+      "horarioEntrega":" - ",
+      "cartoes":[" - "]
+   },
+   {
+      "id":"47",
+      "nome": "Ronda do Quarteirão - 2",
+      "telefone1": "(88) 98508-5211",
+      "telefone2": "(88) 3412-1244",
+      "endereco": "Quixadá - CE",
+      "pontoDeReferencia": " - ",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/ronda_quarteirao.jpg?raw=true",
+      "horarioFuncionamento":" - ",
+      "horarioEntrega":" - ",
+      "cartoes":[" - "]
+   },
+   {
+      "id":"48",
+      "nome": "Ronda do Quarteirão - 3",
+      "telefone1": "(88) 98597-8410",
+      "telefone2": "(88) 3412-1242",
+      "endereco": "Quixadá - CE",
+      "pontoDeReferencia": " - ",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/ronda_quarteirao.jpg?raw=true",
+      "horarioFuncionamento":" - ",
+      "horarioEntrega":" - ",
+      "cartoes":[" - "]
+   },
+   {
+      "id":"49",
+      "nome": "Prefeitura de Quixadá",
+      "telefone1": "(88) 3412-5499",
+      "telefone2": "(88) 0000-0000",
+      "endereco": "Rua Tabelião Enéas, 649 - Centro, Quixadá - CE",
+      "pontoDeReferencia": " - ",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/quixada.png?raw=true",
+      "horarioFuncionamento":" - ",
+      "horarioEntrega":" - ",
+      "cartoes":[" - "]
+   },
+   {
+      "id":"50",
+      "nome": "Bradesco",
+      "telefone1": "(88) 3412-5030",
+      "telefone2": "(88) 0000-0000",
+      "endereco": "Travessa Tiradentes, 230 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Próximo a Coelce",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/bradesco_quixada.jpg?raw=true",
+      "horarioFuncionamento":"Seg. a Sexta de 10:00hs às 15:00hs",
+      "horarioEntrega":" - ",
+      "cartoes":[" - "]
+   },
+   {
+      "id":"51",
+      "nome": "Banco do Brasil",
+      "telefone1": "(88) 3412-0034",
+      "telefone2": "(88) 0000-0000",
+      "endereco": "Rua Rodrigues Júnior, 1202 - Centro, Quixadá - CE",
+      "pontoDeReferencia": " - ",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/banco_do_brasil_quixada.jpg?raw=true",
+      "horarioFuncionamento":"Seg. a Sexta de 10:00hs às 15:00hs",
+      "horarioEntrega":" - ",
+      "cartoes":[" - "]
    }
 ]

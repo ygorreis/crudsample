@@ -211,9 +211,9 @@
       "endereco": "Rua Epitácio Pessoa, 1171 - Centro, Quixadá - CE",
       "pontoDeReferencia": "Próximo à Lojas Americanas",
       "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/pizzaria_paulista_quixada.jpg?raw=true",
-      "horarioFuncionamento":"Seg. a Sábado de 16:00hs às 0:30hs",
-      "horarioEntrega":"Seg. a Sábado de 16:00hs às 0:30hs",
-      "cartoes":["Visa","MasterCard","Vale Refeição"]
+      "horarioFuncionamento":"Seg. a Domingo de 18:30hs às 23:30hs",
+      "horarioEntrega":"Seg. a Domingo de 18:30hs às 23:30hs",
+      "cartoes":["Estabelecimento não aceita cartões de crédito/débito"]
    },
    {
       "id":"19",

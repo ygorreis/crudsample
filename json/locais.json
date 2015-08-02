@@ -622,5 +622,17 @@
       "horarioFuncionamento":"Seg. à Sábado de 11:30hs às 23:00hs e no Domingo de 11:30hs às 14:30hs",
       "horarioEntrega":"Seg. a Domingo de 11:30hs às 14:30hs",
       "cartoes":["Visa","MasterCard","Diners Club", "Hipercard","Cielo Refeição","Elo"]
+   },
+   {
+      "id":"53",
+      "nome": "Açaí do Alex",
+      "telefone1": "(88) 99678-9738",
+      "telefone2": "(88) 99678-9738",
+      "endereco": "No momento a empresa só trabalha com delivery",
+      "pontoDeReferencia": " - ",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/acai_do_alex.jpg?raw=true",
+      "horarioFuncionamento":"Domingo a Sexta da 15:00hs às 23:00hs",
+      "horarioEntrega":"Domingo a Sexta da 15:00hs às 23:00hs",
+      "cartoes":[" - "]
    }
 ]

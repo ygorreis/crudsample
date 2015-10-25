@@ -1,9 +1,14 @@
 [
 	{
-		"id": 1,
-		"nome": "Seu Francisco | Mototáxi",
-		"telefone1": "(88)34123865",
-		"telefone2": "(85)997928986",
-		"horario": "Seg. a Sáb. 8hs às 19:30hs"
+		"id":"54",
+      "nome": "Seu Francisco",
+      "telefone1": "(88) 0000-0000",
+      "telefone2": "(88) 0000-0000",
+      "endereco": "Av. Rodrigues Júnior, 1130 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Depois da HF",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/photo_not_available.png?raw=true",
+      "horarioFuncionamento":"Seg. a Sábado de 8:00hs às 19:00hs",
+      "horarioEntrega":"Estabelecimento não faz entrega.",
+      "cartoes":[" - "]
 	}
 ]

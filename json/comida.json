@@ -1,10 +1,14 @@
-
 [
-	{
-		"id": 1,
-		"nome": "Bom D+",
-		"telefone1": "(00)00000000",
-		"telefone2": "(00)00000000",
-		"horario": "Seg. a Sáb. 8hs às 19:30hs"
-	}
+   {
+      "id":"14",
+      "nome": "Rick Burguer",
+      "telefone1": "(88) 3412-3965",
+      "telefone2": "(88) 3412-3965",
+      "endereco": "Av. Rodrigues Júnior, 1372 - Centro, Quixadá - CE",
+      "pontoDeReferencia": "Vizinho a Praça do Leão",
+      "foto": "https://github.com/ygorreis/crudsample/blob/gh-pages/images/photo_not_available.png?raw=true",
+      "horarioFuncionamento":"Seg. a Sábado de 8:00hs às 22:00hs",
+      "horarioEntrega":"Estabelecimento não faz entrega.",
+      "cartoes":["Visa","MasterCard","Diners Club","Amex"]
+   }
 ]

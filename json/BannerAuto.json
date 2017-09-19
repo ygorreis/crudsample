@@ -1,0 +1,35 @@
+{
+	"list": [
+		{
+			"segment": "HOME",
+			"bannerList": [
+				{
+					"urlImage": "http://www.portoseguro.com.br/conteudo/mobile/Auto/imagem/banner_app_auto_torneira_720x360.jpg",
+					"titleContent": "Benefícios",
+					"urlContent": "https://institucional.portoseguro.com.br/conteudo/seguros/seguro-de-veiculos/seguro-de-automovel/sem-sair-do-sofa/cliente.html",
+					"openUrlInAPP": false
+				},
+				{
+					"urlImage": "http://www.portoseguro.com.br/conteudo/mobile/Auto/imagem/banner_app_auto_clubeporto_720x360.jpg",
+					"titleContent": "Clube Porto",
+					"urlContent": "https://www.clubeportoseguro.com.br/",
+					"openUrlInAPP": false
+				}
+			]
+		},
+		{
+			"segment": "HOME-PREMIUM",
+			"bannerList": [
+				{
+					"urlImage": "http://www.portoseguro.com.br/conteudo/mobile/Auto/imagem/banner_app_auto_torneira_720x360.jpg",
+					"titleContent": "Benefícios",
+					"urlContent": "https://institucional.portoseguro.com.br/conteudo/seguros/seguro-de-veiculos/seguro-de-automovel/sem-sair-do-sofa/cliente.html",
+					"openUrlInAPP": false
+				}
+			]
+		}
+	],
+	"message": "",
+	"object": {},
+	"resultCode": 0
+}
